@@ -1,0 +1,17 @@
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\bin\Debug\net8.0\DAL.dll
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\bin\Debug\net8.0\Common.dll
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\bin\Debug\net8.0\Model.dll
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\bin\Debug\net8.0\Common.pdb
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\bin\Debug\net8.0\Model.pdb
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\obj\Debug\net8.0\DAL.dll
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\DAL\obj\Debug\net8.0\ref\DAL.dll

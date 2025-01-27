@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "PayPal Payment";
+}
+
+<h2>PayPal Payment Integration</h2>
+
+<div>
+    <p>Click the button below to proceed with PayPal payment.</p>
+    <form method="post" id="paypalForm">
+        <button type="submit" class="btn btn-primary">Pay with PayPal</button>
+    </form>
+</div>
+@*
+<div id="message" style="margin-top:20px;">
+    @if (!string.IsNullOrEmpty(Model.Message))
+    {
+        <div class="alert alert-info">@Model.Message</div>
+    }
+</div> *@
+
+<!-- Handle Approval Redirect -->
+<script>
+    document.getElementById("paypalForm").addEventListener("submit", function (e) {
+        e.preventDefault();
+        fetch('/api/payments/create-payment', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' }
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.approvalUrl) {
+                window.location.href = data.approvalUrl; // Redirect to PayPal approval URL
+            } else {
+                alert("Error: Unable to create PayPal payment.");
+            }
+        })
+        .catch(error => console.error('Error:', error));
+    });
+</script>

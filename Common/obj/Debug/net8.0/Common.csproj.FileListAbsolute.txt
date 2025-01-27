@@ -1,0 +1,12 @@
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\Common\bin\Debug\net8.0\Common.deps.json
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\Common\bin\Debug\net8.0\Common.dll
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\Common\bin\Debug\net8.0\Common.pdb
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\Common\obj\Debug\net8.0\Common.dll
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\Common\obj\Debug\net8.0\refint\Common.dll
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\Common\obj\Debug\net8.0\Common.pdb
+D:\Angular-With-Core\EducationApp\EducationsAppWebAPI\Common\obj\Debug\net8.0\ref\Common.dll
